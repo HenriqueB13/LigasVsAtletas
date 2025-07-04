@@ -1,0 +1,5 @@
+Liga,Receita total,Salários de Atletas,Razão Salários/Receitas,Total de atletas,Total de times,Receita média por time,Folha salarial por time,Razão Salários/Receita por time,Gasto com  top 10%,Concentração dos atletas mais bem pagos,Tem Salary Cap,Salário Administrador,Salário médio OU mediana de atletas,Desvio Padrão de Salários,Salário Administrador/ Média do atleta
+NBA,11340000000,4240000000,"0,3738977072",450,30,378000000,"141333333,3","0,3738977072",1837000000,"43,33%",SIM,10000000,"9422222,222",,"1,061320755"
+MLB,12100000000,5158000000,"0,4262809917",780,30,"403333333,3","171933333,3","0,4262809917",2158000000,"41,84%",NÃO,11000000,3000000,,"3,666666667"
+NFL,23000000000,9800000000,"0,4260869565",2208,32,718750000,306250000,"0,4260869565",5900000000,"60,20%",SIM,64000000,"4438405,797",,"14,41959184"
+NHL,6600000000,1.150.000.000,"0,1742424242",736,32,206250000,35937500,"0,1742424242",740000000,"64,35%",SIM,8800000,1562500,,"5,632"

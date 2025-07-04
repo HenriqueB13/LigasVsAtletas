@@ -1,0 +1,19 @@
+Henrique Casas
+```{r}
+# Carregar bibliotecas necessárias
+#install.packages("tidyverse")
+library(tidyverse)
+#install.packages("rstatix")
+library(rstatix)
+#install.packages("ggpubr")
+library(ggpubr)
+library(readxl)
+```
+```{r}
+
+
+# Ler os dados
+dados <- dados <- read_excel("Ligas vs Atletas.xlsx", sheet = "Analise 1")
+
+summary(dados)
+
